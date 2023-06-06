@@ -35,7 +35,7 @@ export default function App() {
   });
 
   return (
-    <div className='flex flex-col items-center gap-8 bg-slate-200 px-4 py-16 font-sans text-slate-900 md:px-24 2xl:h-full'>
+    <div className='flex flex-col items-center gap-8 bg-slate-200 px-4 py-16 font-sans text-slate-900 md:px-24'>
       <h1 className='text-center text-3xl font-bold md:max-w-md md:text-4xl'>
         Pokemon TCG Live Auto Redeem Script Generator
       </h1>
